@@ -1,8 +1,6 @@
 #$LAN=PYTHON$
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-# 學號：M073040090
-# 姓名： Ke
 import tkinter as tk
 import tkinter.messagebox as tkb
 import math
